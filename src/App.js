@@ -13,7 +13,9 @@ const TWITTER_HANDLE = '_buildspace';
 const TWITTER_LINK = `https://twitter.com/${TWITTER_HANDLE}`;
 
 // SystemProgram is a reference to the Solana runtime!
-const { SystemProgram, Keypair } = web3;
+const SystemProgram = web3;
+
+const Keypair = web3;
 
 // Use a keypair for the account that will hold the GIF data.
 const arr = Object.values(kp._keypair.secretKey);
