@@ -16,9 +16,9 @@ const TWITTER_LINK = `https://twitter.com/${TWITTER_HANDLE}`;
 const { SystemProgram, Keypair } = web3;
 
 // Use a keypair for the account that will hold the GIF data.
-const arr = Object.values(kp._keypair.secretKey)
-const secret = new Uint8Array(arr)
-const baseAccount = web3.Keypair.fromSecretKey(secret)
+const arr = Object.values(kp._keypair.secretKey);
+const secret = new Uint8Array(arr);
+const baseAccount = web3.Keypair.fromSecretKey(secret);
 
 // Get our program's id from the IDL file.
 const programID = new PublicKey(idl.metadata.address);
@@ -175,7 +175,7 @@ const App = () => {
             {/* We use index as the key instead, also, the src is now item.gifLink */}
             {gifList.map((item, index) => (
               <div className="gif-item" key={index}>
-                <img src={item.gifLink} />
+                <img src={item.gifLink} alt='images' />
               </div>
             ))}
           </div>
