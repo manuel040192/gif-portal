@@ -1,7 +1,7 @@
 https://6314fe81892a153066638369--neon-khapse-1bba47.netlify.app/
 
 
-**Web3 App on Solana with React and Rust project**
+**Web3 App on Solana with React and Rust**
 
 
 Aplicación web que requiere ser conectada a una billetera Phantom para poder crear una cuenta en la que se puedan subir y almacenar GIFs.
