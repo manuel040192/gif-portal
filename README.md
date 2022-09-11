@@ -18,3 +18,5 @@ Technology stack: React.js, Windows Subsystem for Linux, Ubuntu, Rust, Anchor, P
 
 ![This is an image](https://i.postimg.cc/6610ztHj/Captura-de-pantalla-2022-09-02-110748.png)
 
+![This is an image](https://i.postimg.cc/nzfznjcR/Captura-de-pantalla-2022-08-31-232853.png)
+
