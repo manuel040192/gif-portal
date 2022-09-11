@@ -14,6 +14,8 @@ Web app that requires connecting to a Phantom wallet to be able to create an acc
 Technology stack: React.js, Windows Subsystem for Linux, Ubuntu, Rust, Anchor, Phantom, Solana/Web3.js, File System, Git and Netlify.
 
 
+![This is an image](https://i.postimg.cc/SK2rw5JL/Captura-de-pantalla-2022-09-03-162956.png)
+
 ![This is an image](https://i.postimg.cc/NFy0Q6vH/Captura-de-pantalla-2022-09-03-162955.png)
 
 ![This is an image](https://i.postimg.cc/6610ztHj/Captura-de-pantalla-2022-09-02-110748.png)
