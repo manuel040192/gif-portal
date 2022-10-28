@@ -1,4 +1,4 @@
-https://6314fe81892a153066638369--neon-khapse-1bba47.netlify.app/
+https://neon-khapse-1bba47.netlify.app/
 
 
 **Web3 App on Solana with React and Rust**
