@@ -14,6 +14,11 @@ Web app that requires connecting to a Phantom wallet to be able to create an acc
 Technology stack: React.js, Windows Subsystem for Linux, Ubuntu, Rust, Anchor, Phantom, Solana/Web3.js, File System, Git and Netlify.
 
 
+The code of the Solana program of this project is in the lib.rs file, and I want to say the following about the program's code:
+
+The #[derive] attribute is used along with Accounts to set instructions that are passed to the program's functions with the names of the structs StartStuffOff and AddGif by using those names as generics in the contexts of the program's functions.
+
+
 ![This is an image](https://i.postimg.cc/SK2rw5JL/Captura-de-pantalla-2022-09-03-162956.png)
 
 ![This is an image](https://i.postimg.cc/NFy0Q6vH/Captura-de-pantalla-2022-09-03-162955.png)
