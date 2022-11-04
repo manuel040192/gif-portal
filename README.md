@@ -15,13 +15,13 @@ Technology stack: React.js, Windows Subsystem for Linux, Ubuntu, Rust, Anchor, P
 
 El código del programa de Solana de este proyecto está en el archivo lib.rs.
 
-**Notas acerca del programa:** 
+**Acerca del código del programa:** 
 
 El atributo #[derive] es usado junto con Accounts para establecer instrucciones que son pasadas a las funciones del programa con los nombres de los structs StartStuffOff y AddGif usando esos nombres como genéricos en los contextos de las funciones del programa.
 
 The code of the Solana program of this project is in the lib.rs file.
 
-**Notes about the program:**
+**About the program's code:**
 
 The #[derive] attribute is used along with Accounts to set instructions that are passed to the program's functions with the names of the structs StartStuffOff and AddGif by using those names as generics in the contexts of the program's functions.
 
